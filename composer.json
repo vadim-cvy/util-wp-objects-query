@@ -1,0 +1,8 @@
+{
+  "name": "cvy/util-wp-objects-query",
+  "autoload": {
+    "psr-4": {
+      "Cvy\\WP\\ObjectsQuery\\": "src/"
+    }
+  }
+}
